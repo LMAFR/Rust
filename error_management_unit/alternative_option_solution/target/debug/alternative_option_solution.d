@@ -1,0 +1,1 @@
+C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\error_management_unit\alternative_option_solution\target\debug\alternative_option_solution.exe: C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\error_management_unit\alternative_option_solution\src\main.rs

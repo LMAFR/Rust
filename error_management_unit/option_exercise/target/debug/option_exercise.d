@@ -1,0 +1,1 @@
+C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\error_management_unit\option_exercise\target\debug\option_exercise.exe: C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\error_management_unit\option_exercise\src\main.rs
