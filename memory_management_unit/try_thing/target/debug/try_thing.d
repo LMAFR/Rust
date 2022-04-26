@@ -1,0 +1,1 @@
+C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\memory_management_unit\try_thing\target\debug\try_thing.exe: C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\memory_management_unit\try_thing\src\main.rs
