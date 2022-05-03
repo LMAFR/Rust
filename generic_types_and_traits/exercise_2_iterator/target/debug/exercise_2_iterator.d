@@ -1,0 +1,1 @@
+C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\generic_types_and_traits\exercise_2_iterator\target\debug\exercise_2_iterator.exe: C:\Users\aflorido\Desktop\Cursos\Microsoft_Rust\generic_types_and_traits\exercise_2_iterator\src\main.rs
